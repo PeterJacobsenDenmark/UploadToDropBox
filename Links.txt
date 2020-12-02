@@ -1,0 +1,4 @@
+# upload to dropbox
+https://www.dropbox.com/developers/apps/info/zqasvfhdgmswh7s#settings
+
+https://stackoverflow.com/questions/23894221/upload-file-to-my-dropbox-from-python-script
