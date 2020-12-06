@@ -28,9 +28,7 @@ def upload():
 
 
 def main():
-   
-  while True:
-      upload()
+    upload()
 
 
 
